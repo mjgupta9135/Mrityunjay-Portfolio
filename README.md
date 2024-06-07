@@ -1,8 +1,23 @@
-# Portfolio Website
+## Portfolio Website
 
-Welcome to my portfolio website! This project showcases my skills, projects, education, certifications, and experience in the field of [Your Field/Area of Expertise].
+## Welcome to my portfolio website! This project showcases my skills, projects, education, certifications, and experience in the field of Web Developemwnt.
+## Screenshots
 
-![Portfolio Website Screenshot](path/to/screenshot.png)
+## 1
+![Mrityunjay Portfolio Screenshot 1](src/assets/screenshots/image%20(1).png)
+## 2
+![Mrityunjay Portfolio Screenshot 1](src/assets/screenshots/image%20(7).png)
+## 3
+![Mrityunjay Portfolio Screenshot 1](src/assets/screenshots/image%20(6).png)
+## 4
+![Mrityunjay Portfolio Screenshot 1](src/assets/screenshots/image%20(5).png)
+##5
+![Mrityunjay Portfolio Screenshot 1](src/assets/screenshots/image%20(4).png)
+## 6
+![Mrityunjay Portfolio Screenshot 1](src/assets/screenshots/image%20(3).png)
+## 7
+![Mrityunjay Portfolio Screenshot 1](src/assets/screenshots/image%20(2).png)
+
 
 ## Table of Contents
 
