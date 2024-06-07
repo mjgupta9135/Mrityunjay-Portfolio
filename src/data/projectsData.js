@@ -1,7 +1,18 @@
 import code from "../assets/png/Project/code.png";
 import resume from "../assets/png/Project/resume.png";
 import r2048 from "../assets/png/Project/2048.png";
+import movie from "../assets/png/Project/movie.png";
 export const projectsData = [
+  {
+    id: 1,
+    projectName: "MoviePedia",
+    projectDesc:
+      "A comprehensive movie and series database with millions of records, providing detailed information and easy access to extensive media content.",
+    tags: ["React.JS", "SCSS", "TMDB API"],
+    code: "https://github.com/Mj9135/MoviePedia",
+    demo: "https://movie-pedia-mj.netlify.app/",
+    image: movie,
+  },
   {
     id: 1,
     projectName: "Byte Builder",
