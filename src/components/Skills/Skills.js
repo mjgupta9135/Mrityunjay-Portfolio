@@ -21,7 +21,7 @@ function Skills() {
         <h2 style={{ color: theme.primary }}>Skills</h2>
       </div>
       <div className="skillsContainer">
-        <div className="skill--scroll mrityunjay">
+        <div className="skill--scroll">
           <Marquee
             gradient={false}
             speed={80}
