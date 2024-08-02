@@ -2,7 +2,18 @@ import code from "../assets/png/Project/code.png";
 import resume from "../assets/png/Project/resume.png";
 import r2048 from "../assets/png/Project/2048.png";
 import movie from "../assets/png/Project/movie.png";
+import tata from "../assets/png/Project/tata.png";
 export const projectsData = [
+  {
+    id: 1,
+    projectName: "Tatanagar Treats",
+    projectDesc:
+      "Tatanagar Treats is a ReactJS-based food ordering website for Jamshedpur, integrating Swiggy API for real-time data and featuring an intuitive UI/UX with Tailwind CSS and Redux.",
+    tags: ["React.JS", "Tailwind", "Swiggy API"],
+    code: "https://github.com/Mj9135/Tatanagar-Treats",
+    demo: "https://tatanagar-treats.web.app/",
+    image: tata,
+  },
   {
     id: 1,
     projectName: "MoviePedia",
