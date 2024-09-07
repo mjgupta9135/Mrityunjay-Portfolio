@@ -10,7 +10,7 @@ export const projectsData = [
     projectDesc:
       "Tatanagar Treats is a ReactJS-based food ordering website for Jamshedpur, integrating Swiggy API for real-time data and featuring an intuitive UI/UX with Tailwind CSS and Redux.",
     tags: ["React.JS", "Tailwind", "Swiggy API"],
-    code: "https://github.com/Mj9135/Tatanagar-Treats",
+    code: "https://github.com/mjgupta9135/Tatanagar-Treats",
     demo: "https://tatanagar-treats.web.app/",
     image: tata,
   },
@@ -20,7 +20,7 @@ export const projectsData = [
     projectDesc:
       "A comprehensive movie and series database with millions of records, providing detailed information and easy access to extensive media content.",
     tags: ["React.JS", "SCSS", "TMDB API"],
-    code: "https://github.com/Mj9135/MoviePedia",
+    code: "https://github.com/mjgupta9135/MoviePedia",
     demo: "https://movie-pedia-mj.netlify.app/",
     image: movie,
   },
@@ -30,7 +30,7 @@ export const projectsData = [
     projectDesc:
       "An intuitive online code editor allowing seamless execution and testing of code across various programming languages.",
     tags: ["React.JS", "Tailwind", "Monaco-Editor"],
-    code: "https://github.com/Mj9135/Byte_Builders/",
+    code: "https://github.com/mjgupta9135/Byte_Builders/",
     demo: "https://byte-builder.netlify.app",
     image: code,
   },
@@ -40,7 +40,7 @@ export const projectsData = [
     projectDesc:
       "A user-friendly tool for creating professional resumes quickly with customizable templates, easy editing, and PDF export.",
     tags: ["HTML", "CSS", "Javascript"],
-    code: "https://github.com/Mj9135/Resume-Builder",
+    code: "https://github.com/mjgupta9135/Resume-Builder",
     demo: "https://resume-wizard-mj.netlify.app/",
     image: resume,
   },
@@ -50,7 +50,7 @@ export const projectsData = [
     projectDesc:
       "A fun and addictive puzzle game where players combine tiles to reach the 2048 tile. Simple yet challenging!",
     tags: ["HTML", "CSS", "Javascript"],
-    code: "https://github.com/Mj9135/2048-Game",
+    code: "https://github.com/mjgupta9135/2048-Game",
     demo: "https://2048-mj.netlify.app/",
     image: r2048,
   },
