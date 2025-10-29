@@ -17,7 +17,7 @@ export const educationData = [
   {
     id: 3,
     institution: "Amoli Apurva High School,Mangarh",
-    course: "Higher Secondary Education",
+    course: "Matriculation",
     startYear: "2016",
     endYear: "2018",
   },

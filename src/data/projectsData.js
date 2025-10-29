@@ -3,7 +3,31 @@ import resume from "../assets/png/Project/resume.png";
 import r2048 from "../assets/png/Project/2048.png";
 import movie from "../assets/png/Project/movie.png";
 import tata from "../assets/png/Project/tata.png";
+import drivenest from "../assets/png/Project/drivenest.png";
+import instaerase from "../assets/png/Project/instaerase.png";
+
+
 export const projectsData = [
+  {
+  id: 2, // Assuming this is the next ID
+  projectName: "DriveNest",
+  projectDesc:
+    "A full-stack cloud storage app using React, Spring Boot, and MongoDB. Features file upload/download, public/private sharing with secure links, Clerk authentication, and Razorpay subscription workflows.",
+  tags: ["React.js", "Spring Boot", "MongoDB"],
+  code: "https://github.com/mjgupta9135/DriveNest", // Assumed GitHub username from your other project
+  demo: "https://prismatic-bombolone-5f6af4.netlify.app/", 
+  image: drivenest, 
+},
+{
+  id: 3, // Assuming this is the next ID
+  projectName: "ClipDrop.ai",
+  projectDesc:
+    "A full-stack AI background remover app using React, Spring Boot, and MySQL. Features secure image upload, Clerk authentication, a credit-driven Razorpay subscription, and an AI workflow via the Clipdrop API.",
+  tags: ["React.js", "Spring Boot", "MySQL"],
+  code: "https://github.com/mjgupta9135/InstaErase.ai", // Assumed GitHub username and repo
+  demo: "https://luminous-croissant-f69a7b.netlify.app/", // Add your live link here
+  image: instaerase, // You will need to import this image variable
+},
   {
     id: 1,
     projectName: "Tatanagar Treats",
